@@ -1,4 +1,4 @@
-title:            Site Title
+title:            LomoY
 description:      Describe your website here.
 disqus_shortname: hpstrtheme
 reading_time:     true
@@ -56,7 +56,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: true
+  enbable_coderay: true
 
   coderay:
     coderay_line_numbers: nil
